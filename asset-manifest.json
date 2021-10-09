@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://mikespub-auto.github.io/csb-fgnv8/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://mikespub-auto.github.io/csb-fgnv8/static/js/main.1050fa29.chunk.js",
+    "main.js.map": "https://mikespub-auto.github.io/csb-fgnv8/static/js/main.1050fa29.chunk.js.map",
+    "runtime-main.js": "https://mikespub-auto.github.io/csb-fgnv8/static/js/runtime-main.3abad5dd.js",
+    "runtime-main.js.map": "https://mikespub-auto.github.io/csb-fgnv8/static/js/runtime-main.3abad5dd.js.map",
+    "static/css/2.69a60d9d.chunk.css": "https://mikespub-auto.github.io/csb-fgnv8/static/css/2.69a60d9d.chunk.css",
+    "static/js/2.b11b6229.chunk.js": "https://mikespub-auto.github.io/csb-fgnv8/static/js/2.b11b6229.chunk.js",
+    "static/js/2.b11b6229.chunk.js.map": "https://mikespub-auto.github.io/csb-fgnv8/static/js/2.b11b6229.chunk.js.map",
+    "index.html": "https://mikespub-auto.github.io/csb-fgnv8/index.html",
+    "static/css/2.69a60d9d.chunk.css.map": "https://mikespub-auto.github.io/csb-fgnv8/static/css/2.69a60d9d.chunk.css.map",
+    "static/css/main.f29ae65a.chunk.css.map": "https://mikespub-auto.github.io/csb-fgnv8/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b11b6229.chunk.js.LICENSE.txt": "https://mikespub-auto.github.io/csb-fgnv8/static/js/2.b11b6229.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3abad5dd.js",
+    "static/css/2.69a60d9d.chunk.css",
+    "static/js/2.b11b6229.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1050fa29.chunk.js"
+  ]
+}
